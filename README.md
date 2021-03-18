@@ -6,3 +6,6 @@ The visuaslizations are built in Tableau and can be accessed through this link -
 ![alt text](https://github.com/rohan20k/wacovid19vaccfinder/blob/master/Covid_Cases_By_County_WA_State.png?raw=true)
 
 ![alt text](https://github.com/rohan20k/wacovid19vaccfinder/blob/master/Vaccination_Sites_By_Zip_VS_Cases.png?raw=true)
+
+
+![Alt text](/../master/Vaccination_Sites_By_Zip_VS_Cases.png?raw=true "Optional Title")
