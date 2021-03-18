@@ -3,7 +3,7 @@ This repository contains the details, code and visualization links for a project
 
 The visuaslizations are built in Tableau and can be accessed through this link - [link to tableau visualizations!](https://public.tableau.com/profile/vaibhav.rao#!/vizhome/IMT563-COVIDVaccination/CasesbyCounty)
 
-## Some sample visualization screenshots
+# Some sample visualization screenshots
 
 ## Covid_Cases_By_County_WA_State
 
