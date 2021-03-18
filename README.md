@@ -1,5 +1,7 @@
 # WAcovid19vaccfinder
-This repository contains the details, code and visualization links for a project that help users make more informed decisions on where to receive their vaccination based on availability and Covid 19 spread in an area (County/Zip Level) in Washington State (USA)
+This repository contains the details, code and visualization links for a project that help users make more informed decisions on where to receive their vaccination based on availability and Covid 19 spread in an area (County/Zip Level) in Washington State (USA).
+
+The data storage solution used for this project is Snowflake Data Warehouse. 
 
 The visuaslizations are built in Tableau and can be accessed through this link - [link to tableau visualizations!](https://public.tableau.com/profile/vaibhav.rao#!/vizhome/IMT563-COVIDVaccination/CasesbyCounty)
 
